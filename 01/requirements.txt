@@ -1,0 +1,4 @@
+httpx
+elasticsearch~=8.0
+tqdm
+tiktoken
